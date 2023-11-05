@@ -3,3 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.abc {
+  padding: 0;
+  margin: 12px;
+  background-color: aqua;
+}
