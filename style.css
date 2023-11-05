@@ -1,9 +1,5 @@
-        .abcd{
-                display: block;
-        }   
-          .asdasd{
-            display: block;
-    }   
-      .cdsdcsc{
-        display: block;
-}    
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
