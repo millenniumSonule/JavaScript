@@ -5,5 +5,7 @@
 }
 
 .abc {
-    padding: 0;
+  padding: 0;
+  margin: 12px;
+  background-color: aqua;
 }
